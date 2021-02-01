@@ -1,6 +1,6 @@
 ### Hi there 👋 
 Find me on : </br>
-[@ instagram/christianelkaaa](https://instgram.com/christianelkaaa) </br>
+[@ instagram/christianelkaaa](https://instagram.com/christianelkaaa) </br>
 [@ twitter/christianelkaaa](https://twitter.com/christianelkaaa)
 
 <!--
