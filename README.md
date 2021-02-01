@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there 👋 
+Find me on : </br>
+[@ instagram/christianelkaaa](https://instgram.com/christianelkaaa) </br>
+[@ twitter/christianelkaaa](https://twitter.com/christianelkaaa)
 
 <!--
 **christianelka/christianelka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +17,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![Christian Anelka's GitHub stats](https://github-readme-stats.vercel.app/api?username=christianelka&show_icons=true&theme=radical)
